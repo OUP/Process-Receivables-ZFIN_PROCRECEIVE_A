@@ -1,0 +1,40 @@
+{
+	"fileName": "id_1623992305497_165_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "",
+	"reference": "customer.ZFIN_PROCRECEIVE_A",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/ObjectExtension.js"
+	},
+	"selector": {
+		"controllerName": "fin.ar.customerinvoicelist.view.InvoiceList"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.ar.customerinvoicelist/changes/",
+	"projectId": "customer.ZFIN_PROCRECEIVE_A",
+	"creation": "2021-06-18T04:58:25.831Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.29",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.11",
+		"from": "7.0.11",
+		"to": "7.0.11"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

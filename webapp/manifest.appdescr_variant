@@ -1,0 +1,26 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "fin.ar.customerinvoicelist",
+  "id": "customer.ZFIN_PROCRECEIVE_A",
+  "namespace": "apps/fin.ar.customerinvoicelist/appVariants/customer.ZFIN_PROCRECEIVE_A/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n"
+      },
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    }
+  ]
+}
